@@ -6303,7 +6303,7 @@
   <Package name="Crimes">
     <Key ID="STR_Crime_187V">
       <Original>Vehicular Manslaughter</Original>
-      <German>Fahrlässige Toetung</German>
+      <German>Fahrlässige Tötung</German>
     </Key>
     <Key ID="STR_Crime_187">
       <Original>Manslaughter</Original>
